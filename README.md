@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/695110f3-9836-4cf9-842b-5518bd755a4e" alt="Gradient Banner" width="100%" style="border-radius: 10px; max-width: 100%; max-height: 50%; object-fit: cover;" />
 
-<h1 align="center">👋 Hi, I'm <strong>munia sultana</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Ehsanul Haque</strong></h1>
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
 
 
