@@ -1,181 +1,39 @@
-<!-- ================= BANNER IMAGE ================= -->
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/695110f3-9836-4cf9-842b-5518bd755a4e" alt="Gradient Banner" width="100%" style="border-radius: 10px; max-width: 100%; max-height: 50%; object-fit: cover;" />
-
-<h1 align="center">👋 Hi, I'm <strong>Ehsanul Haque</strong></h1>
-<h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
-
-
-
-
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E6FF&center=true&vCenter=true&width=750&lines=👨‍💻+Full+Stack+Developer;🚀+JavaScript+•+TypeScript+•+Node.js;🌐+Building+Web+Apps+%26+WordPress+Solutions;🔐+Secure+Systems+with+Clean+Code" />
-</h2>
-
-
-![Untitled file](https://github.com/user-attachments/assets/f06aee4f-7a11-46b2-8129-df56e89d230e)
-</br>
-</br>
-
-
-## 🧑‍💻 About Me
-🚀 Passionate *Frontend Developer* exploring the world of *Backend technologies*.  
-💡 I love building *clean, scalable, and user-friendly* web applications.  
-🎯 Currently learning *Next.js, **Node.js, and **TypeScript*.  
-📌 Goal: Become a *Full-Stack Developer* by 2025.
-
-</br>
-</br>
-
-## 📈 GitHub Stats
-
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Munia365?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Munia365?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-count/Munia365?style=social" alt="Repos" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffa6,100:00ccff&height=220&section=header&text=Ehasanul%20Haque&fontSize=50&fontColor=0f0&animation=twinkling" />
 </p>
 
-</br>
-</br>
-
-### 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munia365&theme=react-dark&area=true" />
+  <b>Full-Stack Student Developer • C++ & JavaScript</b><br>
+  Creating full-stack web apps and leveling-up every day ⚡
 </p>
-
-</br>
-</br>
-
-### 👁️‍🗨️ Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Munia365&color=blueviolet" alt="Visitor Count" />
-</p>
-
-</br>
-</br>
-
-### 📌 Top Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-</br>
-</br>
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Munia365&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2&icon_color=94018A&border_color=94018A&hide_border=false"
-    alt="GitHub Stats"
-  />
-</p>
-
-</br>
-</br>
-
-## 🌐 Most Used Languages
-
-</br>
-</br>
-
-  <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munia365&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2&icon_color=94018A&border_color=94018A&hide_border=false&layout=compact"
-    alt="Top Languages"
-  />
-  </p>
-
-</br>
-</br>
-
-![]()<br/>
-
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Munia365&theme=dark&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2&icon_color=94018A&border_color=94018A&hide_border=false&layout=default" />
-</p>
-
-</br>
-</br>
-
-## 🔥 What I'm Doing & Learned
-
-### 💡 Already Mastered
-- TypeScript
-- Node.js
-- Express
-- SQL / RDBMS
-- Prisma
-
-</br>
-</br>
-
-### 🌱 Currently Learning
-- Next.js
-- Advanced Backend Architectures
-- Microservices / Design Systems
-
-</br>
-</br>
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
-</p>
-
-</br>
-</br>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
-
-</br>
-</br>
-
-### 💪 Skill Levels
-- *React:* ⭐⭐⭐⭐☆
-- *Node.js:* ⭐⭐⭐☆
-- *TypeScript:* ⭐⭐⭐⭐☆
-- *MongoDB:* ⭐⭐⭐⭐☆
-- *SQL / Prisma:* ⭐⭐⭐⭐☆
-
-</br>
-</br>
-
-### 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel" />
-</p>
-
-</br>
-
-
-</br>
-</br>
-
-</p>
-
-</br>
-</br>
-
 
 ---
 
+### 🎖️ Neon Badges
 
+<p>
+  <img src="https://img.shields.io/badge/Student%20Developer-00ffa6?style=for-the-badge&logo=github&logoColor=000" />
+  <img src="https://img.shields.io/badge/C++-00ffcc?style=for-the-badge&logo=c%2B%2B&logoColor=000" />
+  <img src="https://img.shields.io/badge/JavaScript-00e5ff?style=for-the-badge&logo=javascript&logoColor=000" />
+</p>
 
+---
 
-<p align="center">✨ “Code is like humour — when you have to explain it, it’s bad.” ✨</p>
+### 📊 Neon GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ehasanul-haque&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehasanul-haque&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🔥 Neon Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehasanul-haque&theme=tokyo-night" />
+</p>
+
+---
+
+⭐ *“Build. Glow. Repeat.”*
